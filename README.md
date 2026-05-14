@@ -1,4 +1,4 @@
-# 🚀 Neovim Dotfiles
+# Neovim Dotfiles
 
 My personal, minimal, and efficient Neovim configuration.
 
@@ -37,7 +37,7 @@ My personal, minimal, and efficient Neovim configuration.
 
 1. **Clone the repo**:
    ```sh
-   git clone https://github.com/yourusername/dotfiles.git ~/.config/nvim
+   git clone https://github.com/notrtdsx/nvimdots.git ~/.config/nvim
    ```
 2. **Open Neovim**:
    ```sh
