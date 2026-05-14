@@ -4,7 +4,7 @@ My personal, minimal, and efficient Neovim configuration.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Fast & Lightweight**: Lazy-loaded plugins for optimal performance
 - **Modern UI**: Gruvbox theme, Lualine, Nvim-Tree, and custom icons
@@ -14,7 +14,7 @@ My personal, minimal, and efficient Neovim configuration.
 
 ---
 
-## 📦 Plugins
+## Plugins
    Plugin | Purpose |
  |--------|---------|
  | [lazy.nvim](https://github.com/folke/lazy.nvim) | Plugin manager |
@@ -33,11 +33,11 @@ My personal, minimal, and efficient Neovim configuration.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repo**:
    ```sh
-   git clone https://github.com/notrtdsx/nvimdots.git ~/.config/nvim
+   git clone https://github.com/notrtdsx/nvim.git ~/.config/nvim
    ```
 2. **Open Neovim**:
    ```sh
@@ -47,7 +47,7 @@ My personal, minimal, and efficient Neovim configuration.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Neovim >= 0.9.0
 - [ripgrep](https://github.com/BurntSushi/ripgrep) (for Telescope live grep)
@@ -56,7 +56,7 @@ My personal, minimal, and efficient Neovim configuration.
 
 ---
 
-## 🎹 Keybindings
+## Keybindings
  | Key | Action |
  |-----|--------|
  | `<leader>ff` | Telescope: Find files |
