@@ -1,4 +1,6 @@
-# Neovim Configuration
+# This project has moved to Codeberg: https://codeberg.org/notrtdsx/nvim
+
+## Neovim Configuration
 
 A **minimal, efficient, and modern** Neovim setup powered by [lazy.nvim](https://github.com/folke/lazy.nvim).  
 Includes LSP, autocompletion, file exploration, syntax highlighting, and more.
