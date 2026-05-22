@@ -1,4 +1,4 @@
-# This project has moved to Codeberg: https://codeberg.org/notrtdsx/nvim
+# This project is Codeberg too: https://codeberg.org/notrtdsx/nvim
 
 ## Neovim Configuration
 
